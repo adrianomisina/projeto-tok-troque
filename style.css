@@ -298,10 +298,11 @@ a.nav-item.nav-link{
     height: auto;
     background-color: #000;
     font-size:10px;
-    text-align: left;
+    text-align: center;
     color:#f5a318;
 }
 
 .copy-right {
+    font-size: 8px;
     text-align: center;
 }
